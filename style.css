@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    background-color: wheat;
+    padding: 15px;
+    font-size: larger;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#message {
+    text-align: center;
+    background-color: rgb(239, 76, 239);
+}
+
+
+img {
+    width: 70%;
+    height: 300px;
+}
+
+.container-3 {
+    text-align: center;
+}
+
+
+.buttons {
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-around;
+}
+button{
+    background-color: purple;
+    color: white;
+    font-size: 2em;
+    font-weight: 500;
+}
+
